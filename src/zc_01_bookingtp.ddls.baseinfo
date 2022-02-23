@@ -1,0 +1,15 @@
+{
+"BASEINFO":
+{
+"FROM":
+[
+"ZI_01_BOOKINGTP"
+],
+"ASSOCIATED":
+[
+"ZC_01_CUSTOMERTP"
+],
+"BASE":
+[]
+}
+}
